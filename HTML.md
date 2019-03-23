@@ -49,7 +49,7 @@
 
 设置某些<meta>`标签有利于**SEO**(Search Engine Optimization 搜索引擎优化)
 
-[[↑] 回到顶部](#html)
+[[↑] 回到顶部](#HTML)
 
 
 
@@ -72,7 +72,7 @@
 
 参考：[MDN HTML5](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
 
-[[↑] 回到顶部](#html)
+[[↑] 回到顶部](#HTML)
 
 
 
@@ -100,4 +100,4 @@
 
 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages#Choose_your_user_agent_requirements_wisely)
 
-[[↑] 回到顶部](#html)
+[[↑] 回到顶部](#HTML)
