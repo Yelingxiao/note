@@ -1,12 +1,12 @@
 ## HTML
 
-* #####  [`DOCTYPE`是什么？](#`DOCTYPE`是什么？)
+* **[`DOCTYPE`是什么？](#`DOCTYPE`是什么)**
 
-* #####  [`<meta>`标签](#`<meta>`标签)
+* **[`<meta>`标签](#`<meta>`标签)**
 
-* ##### [HTML5 的基本构件(building block)](#HTML5的基本构件(building block))
+* **[HTML5的基本构件(building block)](#HTML5的基本构件(building block))**
 
-* ##### [如何制作快速加载的HTML页面](#如何制作快速加载的HTML页面)
+* **[如何制作快速加载的HTML页面](#如何制作快速加载的HTML页面)**
 
 #####  `DOCTYPE`是什么？
 
@@ -53,7 +53,7 @@
 
 
 
-##### HTML5 的基本构件(building block)
+##### HTML5的基本构件(building block)
 
 
 
