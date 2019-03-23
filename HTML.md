@@ -1,14 +1,14 @@
-##HTML
+## HTML
 
-* ##### [`DOCTYPE`是什么？](#`DOCTYPE`是什么？)
+* #####  [`DOCTYPE`是什么？](#`DOCTYPE`是什么？)
 
-* ##### [`<meta>`标签](#`<meta>`标签)
+* #####  [`<meta>`标签](#`<meta>`标签)
 
-* ##### [HTML5 的基本构件(building block)](#HTML5 的基本构件(building block))
+* #####  [HTML5 的基本构件(building block)](#HTML5 的基本构件(building block))
 
-* #####[如何制作快速加载的HTML页面](#如何制作快速加载的HTML页面)
+* ##### [如何制作快速加载的HTML页面](#如何制作快速加载的HTML页面)
 
-#####`DOCTYPE`是什么？
+#####  `DOCTYPE`是什么？
 
 `DOCTYPE`是“document type”的缩写。在[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)中，文档类型声明是必要的。所有的文档的头部，你都将会看到"`<!DOCTYPE html>`" 的身影。这个声明的目的是防止浏览器在渲染文档时，切换到我们称为“[怪异模式(兼容模式)](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)”的渲染模式。“`<!DOCTYPE html>`" 确保浏览器按照最佳的相关规范进行渲染，而不是使用一个不符合规范的渲染模式。
 
@@ -18,7 +18,7 @@
 
 
 
-##### `<meta>`标签
+#####  `<meta>`标签
 
 > 标签提供关于HTML文档的元数据。元数据不会显示在页面上，但是对于机器是可读的。它可用于浏览器（如何显示内容或重新加载页面），搜索引擎（关键词），或其他 web 服务。
 
@@ -53,7 +53,7 @@
 
 
 
-#####HTML5 的基本构件(building block)
+##### HTML5 的基本构件(building block)
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-#####如何制作快速加载的HTML页面
+##### 如何制作快速加载的HTML页面
 
 **Tips**
 
