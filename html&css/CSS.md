@@ -176,7 +176,9 @@ id选择符：100
 ```
 
 **方法4：position + 负margin**
+
 **方法5：position + margin：auto**
+
 **方法6：position + transform；**
 
 [[↑] 回到顶部](#CSS)
@@ -333,4 +335,3 @@ display属性规定元素应该生成的框的类型；position属性规定元�
 ```
 
 [[↑] 回到顶部](#CSS)
-
