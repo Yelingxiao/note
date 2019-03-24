@@ -1,4 +1,4 @@
-## CSS&LESS
+## CSS
 
 * [**CSS的盒子模型**](#CSS的盒子模型)
 * [**CSS选择器**](#CSS选择器)
@@ -26,7 +26,7 @@ context-box：W3C的标准盒子模型，设置元素的 height/width 属性指�
 
 border-box：IE传统盒子模型。设置元素的height/width属性指的是border + padding + content部分的高/宽
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 #### CSS选择器
 
@@ -100,7 +100,7 @@ id选择符：100
 2. 如果优先级相同，则选择最后出现的样式。
 3. 继承得到的样式的优先级最低。
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 #### 水平居中
 
@@ -179,7 +179,7 @@ id选择符：100
 **方法5：position + margin：auto**
 **方法6：position + transform；**
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 
 
@@ -259,7 +259,7 @@ id选择符：100
 	}
 ```
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 #### position定位
 
@@ -281,7 +281,7 @@ display属性规定元素应该生成的框的类型；position属性规定元�
 
 类似于优先级机制：position：absolute/fixed优先级最高，有他们在时，float不起作用，display值需要调整。float 或者absolute定位的元素，只能是块元素或表格。
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 
 
@@ -297,7 +297,7 @@ display属性规定元素应该生成的框的类型；position属性规定元�
 
 [CSS 布局](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Introduction)
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 
 
@@ -313,7 +313,7 @@ display属性规定元素应该生成的框的类型；position属性规定元�
 8. 避免！important，可以选择其他选择器
 9. 尽可能的精简规则，你可以合并不同类里的重复规则
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
 #### css画图形
 
@@ -332,5 +332,5 @@ display属性规定元素应该生成的框的类型；position属性规定元�
 }
 ```
 
-[[↑] 回到顶部](#CSS&LESS)
+[[↑] 回到顶部](#CSS)
 
